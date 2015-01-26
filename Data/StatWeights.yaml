@@ -1,0 +1,311 @@
+- Job: Gladiator
+  Primary: Gladiators_Arm
+  Primary2H: Gladiators_Arm
+  Weights:
+    Physical_Damage: 5
+    Defense: 2
+    Strength: 1
+    Vitality: 1
+    Dexterity: 0.3
+    Accuracy: 0.3
+    Parry: 0.25
+    Determination: 0.25
+
+- Job: Paladin
+  Primary: Gladiators_Arm
+  Primary2H: Gladiators_Arm
+  Weights:
+    Physical_Damage: 5
+    Defense: 2
+    Strength: 1
+    Vitality: 1
+    Dexterity: 0.3
+    Accuracy: 0.3
+    Parry: 0.25
+    Determination: 0.25
+
+- Job: Marauder
+  Primary: Marauders_Arm
+  Primary2H: Marauders_Arm
+  Weights:
+    Physical_Damage: 5
+    Defense: 2
+    Strength: 1
+    Vitality: 1
+    Dexterity: 0.3
+    Accuracy: 0.3
+    Parry: 0.25
+    Determination: 0.25
+
+- Job: Warrior
+  Primary: Marauders_Arm
+  Primary2H: Marauders_Arm
+  Weights:
+    Physical_Damage: 5
+    Defense: 2
+    Strength: 1
+    Vitality: 1
+    Dexterity: 0.3
+    Accuracy: 0.3
+    Parry: 0.25
+    Determination: 0.25
+
+- Job: Archer
+  Primary: Archers_Arm
+  Primary2H: Archers_Arm
+  Weights:
+    Defense: 0.1
+    Physical_Damage: 9.429
+    Dexterity: 1
+    Critical_Hit_Rate: 0.339
+    Determination: 0.320
+    Skill_Speed: 0.161
+
+- Job: Bard
+  Primary: Archers_Arm
+  Primary2H: Archers_Arm
+  Weights:
+    Defense: 0.1
+    Physical_Damage: 9.429
+    Dexterity: 1
+    Critical_Hit_Rate: 0.339
+    Determination: 0.320
+    Skill_Speed: 0.161
+
+- Job: Lancer
+  Primary: Lancers_Arm
+  Primary2H: Lancers_Arm
+  Weights:
+    Defense: 0.1
+    Physical_Damage: 9.349
+    Strength: 1
+    Critical_Hit_Rate: 0.233
+    Determination: 0.327
+    Skill_Speed: 0.198
+
+- Job: Dragoon
+  Primary: Lancers_Arm
+  Primary2H: Lancers_Arm
+  Weights:
+    Defense: 0.1
+    Physical_Damage: 9.349
+    Strength: 1
+    Critical_Hit_Rate: 0.233
+    Determination: 0.327
+    Skill_Speed: 0.198
+
+- Job: Pugilist
+  Primary: Pugilists_Arm
+  Primary2H: Pugilists_Arm
+  Weights:
+    Defense: 0.1
+    Physical_Damage: 9.338
+    Strength: 1
+    Critical_Hit_Rate: 0.187
+    Determination: 0.332
+    Skill_Speed: 0.187
+
+- Job: Monk
+  Primary: Pugilists_Arm
+  Primary2H: Pugilists_Arm
+  Weights:
+    Defense: 0.1
+    Physical_Damage: 9.338
+    Strength: 1
+    Critical_Hit_Rate: 0.187
+    Determination: 0.332
+    Skill_Speed: 0.187
+
+- Job: Rogue
+  Primary: Rogues_Arms
+  Primary2H: Rogues_Arms
+  Weights:
+    Defense: 0.1
+    Physical_Damage: 9.132
+    Dexterity: 1
+    Critical_Hit_Rate: 0.226
+    Determination: 0.325
+    Skill_Speed: 0.215
+
+- Job: Ninja
+  Primary: Rogues_Arms
+  Primary2H: Rogues_Arms
+  Weights:
+    Defense: 0.1
+    Physical_Damage: 9.132
+    Dexterity: 1
+    Critical_Hit_Rate: 0.226
+    Determination: 0.325
+    Skill_Speed: 0.215
+
+- Job: Thaumaturge
+  Primary: One_handed_Thaumaturges_Arm
+  Primary2H: Two_handed_Thaumaturges_Arm
+  Weights:
+    Defense: 0.1
+    Magic_Damage: 6.911
+    Intelligence: 1
+    Critical_Hit_Rate: 0.215
+    Determination: 0.283
+    Spell_Speed: 0.24
+
+- Job: BlackMage
+  Primary: One_handed_Thaumaturges_Arm
+  Primary2H: Two_handed_Thaumaturges_Arm
+  Weights:
+    Defense: 0.1
+    Magic_Damage: 6.911
+    Intelligence: 1
+    Critical_Hit_Rate: 0.215
+    Determination: 0.283
+    Spell_Speed: 0.24
+
+- Job: Arcanist
+  Primary: Arcanists_Grimoire
+  Primary2H: Arcanists_Grimoire
+  Weights:
+    Defense: 0.1
+    Magic_Damage: 6.911
+    Intelligence: 1
+    Critical_Hit_Rate: 0.232
+    Determination: 0.284
+    Spell_Speed: 0.098
+
+- Job: Summoner
+  Primary: Arcanists_Grimoire
+  Primary2H: Arcanists_Grimoire
+  Weights:
+    Defense: 0.1
+    Magic_Damage: 6.911
+    Intelligence: 1
+    Critical_Hit_Rate: 0.232
+    Determination: 0.284
+    Spell_Speed: 0.098
+
+- Job: Conjurer
+  Primary: One_handed_Conjurers_Arm
+  Primary2H: Two_handed_Conjurers_Arm
+  Weights:
+    Magic_Damage: 6.911
+    Defense: 0.1
+    Mind: 1
+    Vitality: 0.4
+    Critical_Hit_Rate: 0.2
+    Determination: 0.4
+    Spell_Speed: 0.3
+    Piety: 0.7
+
+- Job: Scholar
+  Primary: Arcanists_Grimoire
+  Primary2H: Arcanists_Grimoire
+  Weights:
+    Magic_Damage: 6.911
+    Mind: 1
+    Vitality: 0.4
+    Critical_Hit_Rate: 0.2
+    Determination: 0.4
+    Spell_Speed: 0.3
+    Piety: 0.7
+    Defense: 0.2
+
+- Job: WhiteMage
+  Primary: One_handed_Conjurers_Arm
+  Primary2H: Two_handed_Conjurers_Arm
+  Weights:
+    Magic_Damage: 6.911
+    Mind: 1
+    Vitality: 0.4
+    Critical_Hit_Rate: 0.2
+    Determination: 0.4
+    Spell_Speed: 0.3
+    Piety: 0.7
+    Defense: 0.2
+
+- Job: Carpenter
+  Primary: Carpenters_Primary_Tool
+  Primary2H: Carpenters_Primary_Tool
+  Weights:
+    Craftsmanship: 1.0
+    Control: 1.0
+    CP: 1.0
+
+- Job: Armorer
+  Primary: Armorers_Primary_Tool
+  Primary2H: Armorers_Primary_Tool
+  Weights:
+    Craftsmanship: 1.0
+    Control: 1.0
+    CP: 1.0
+
+- Job: Blacksmith
+  Primary: Blacksmiths_Primary_Tool
+  Primary2H: Blacksmiths_Primary_Tool
+  Weights:
+    Craftsmanship: 1.0
+    Control: 1.0
+    CP: 1.0
+
+- Job: Alchemist
+  Primary: Alchemists_Primary_Tool
+  Primary2H: Alchemists_Primary_Tool
+  Weights:
+    Craftsmanship: 1.0
+    Control: 1.0
+    CP: 1.0
+
+- Job: Goldsmith
+  Primary: Goldsmiths_Primary_Tool
+  Primary2H: Goldsmiths_Primary_Tool
+  Weights:
+    Craftsmanship: 1.0
+    Control: 1.0
+    CP: 1.0
+
+- Job: Leatherworker
+  Primary: Leatherworkers_Primary_Tool
+  Primary2H: Leatherworkers_Primary_Tool
+  Weights:
+    Craftsmanship: 1.0
+    Control: 1.0
+    CP: 1.0
+
+- Job: Weaver
+  Primary: Weavers_Primary_Tool
+  Primary2H: Weavers_Primary_Tool
+  Weights:
+    Craftsmanship: 1.0
+    Control: 1.0
+    CP: 1.0
+
+- Job: Culinarian
+  Primary: Culinarians_Primary_Tool
+  Primary2H: Culinarians_Primary_Tool
+  Weights:
+    Craftsmanship: 1.0
+    Control: 1.0
+    CP: 1.0
+
+- Job: Miner
+  Primary: Miners_Primary_Tool
+  Primary2H: Miners_Primary_Tool
+  Weights:
+    Gathering: 1.0
+    Perception: 1.0
+    GP: 1.0
+
+- Job: Botanist
+  Primary: Botanists_Primary_Tool
+  Primary2H: Botanists_Primary_Tool
+  Weights:
+    Gathering: 1.0
+    Perception: 1.0
+    GP: 1.0
+
+- Job: Fisher
+  Primary: Fishers_Primary_Tool
+  Primary2H: Fishers_Primary_Tool
+  Weights:
+    Gathering: 1.0
+    Perception: 1.0
+    GP: 1.0
+

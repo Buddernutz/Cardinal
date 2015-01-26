@@ -1,0 +1,306 @@
+- NpcName: Alistair
+  ZoneId: 129
+  NpcId: 1001206
+  X: -246.9976
+  Y: 16
+  Z: 49.1761
+- NpcName: Syvinmhas
+  ZoneId: 128
+  NpcId: 1003255
+  X: 13.09951
+  Y: 44.5
+  Z: 157.2106
+- NpcName: Leofrun
+  ZoneId: 128
+  NpcId: 1003251
+  X: 15.97732
+  Y: 40.2
+  Z: 1.251203
+- NpcName: Erkenbaud
+  ZoneId: 132
+  NpcId: 1000394
+  X: 26.73881
+  Y: -8
+  Z: 95.43526
+- NpcName: Clementain
+  ZoneId: 133
+  NpcId: 1000395
+  X: -182.7243
+  Y: 9.067491
+  Z: -95.59009
+- NpcName: Maeloc
+  ZoneId: 133
+  NpcId: 1001277
+  X: 156.0811
+  Y: 15.5
+  Z: -130.695
+- NpcName: Zuzutyro
+  ZoneId: 130
+  NpcId: 1004416
+  X: 30.92056
+  Y: 7
+  Z: -83.72356
+- NpcName: Averitt
+  ZoneId: 131
+  NpcId: 1004420
+  X: 139.0599
+  Y: 4
+  Z: 0.3201944
+- NpcName: Hehezofu
+  ZoneId: 130
+  NpcId: 1004415
+  X: -153.8757
+  Y: 12
+  Z: -22.87667
+- NpcName: Maeloc
+  ZoneId: 134
+  NpcId: 1003257
+  X: 199.488
+  Y: 98.47483
+  Z: -203.9123
+- NpcName: Merchant & Mender
+  ZoneId: 135
+  NpcId: 1003259
+  X: 202.472
+  Y: 14.09601
+  Z: 675.4113
+- NpcName: Merchant & Mender
+  ZoneId: 135
+  NpcId: 1003258
+  X: 554.3871
+  Y: 88.63627
+  Z: -46.84058
+- NpcName: Merchant & Mender
+  ZoneId: 137
+  NpcId: 1003261
+  X: 462.8874
+  Y: 16.79759
+  Z: 484.7227
+- NpcName: Merchant & Mender
+  ZoneId: 137
+  NpcId: 1003262
+  X: -34.32534
+  Y: 71.75401
+  Z: -36.0625
+- NpcName: Merchant & Mender
+  ZoneId: 138
+  NpcId: 1003263
+  X: 663.8287
+  Y: 9.744605
+  Z: 494.7283
+- NpcName: Merchant & Mender
+  ZoneId: 138
+  NpcId: 1003264
+  X: 241.2145
+  Y: -24.99924
+  Z: 233.9283
+- NpcName: Merchant & Mender
+  ZoneId: 138
+  NpcId: 1003266
+  X: 57.071
+  Y: -3.11829
+  Z: 63.44406
+- NpcName: Merchant & Mender
+  ZoneId: 138
+  NpcId: 1005181
+  X: -89.07496
+  Y: -24.94441
+  Z: 81.29597
+- NpcName: Merchant & Mender
+  ZoneId: 138
+  NpcId: 1005180
+  X: 20.66621
+  Y: -10.33294
+  Z: -67.07877
+- NpcName: Merchant & Mender
+  ZoneId: 139
+  NpcId: 1003268
+  X: 424.7212
+  Y: 4.098778
+  Z: 112.1271
+- NpcName: Junkmonger
+  ZoneId: 139
+  NpcId: 1003270
+  X: 237.642
+  Y: -0.9192204
+  Z: 248.7912
+- NpcName: Merchant & Mender
+  ZoneId: 180
+  NpcId: 1005182
+  X: -104.7386
+  Y: 64.00773
+  Z: -203.7362
+- NpcName: Merchant & Mender
+  ZoneId: 148
+  NpcId: 1000220
+  X: 15.36449
+  Y: -8.011558
+  Z: -12.32143
+- NpcName: Merchant & Mender
+  ZoneId: 148
+  NpcId: 1000396
+  X: 85.37393
+  Y: -8
+  Z: -102.8138
+- NpcName: Merchant & Mender
+  ZoneId: 148
+  NpcId: 1000717
+  X: 177.5448
+  Y: -32.04232
+  Z: 321.6585
+- NpcName: Merchant & Mender
+  ZoneId: 152
+  NpcId: 1000222
+  X: -214.7817
+  Y: 2.191374
+  Z: 298.5432
+- NpcName: Junkmonger
+  ZoneId: 152
+  NpcId: 1000579
+  X: 13.86312
+  Y: -4.759318
+  Z: 220.4692
+- NpcName: Merchant & Mender
+  ZoneId: 152
+  NpcId: 1002371
+  X: -478.5937
+  Y: 7.536946
+  Z: 201.6703
+- NpcName: Merchant & Mender
+  ZoneId: 153
+  NpcId: 1000397
+  X: 164.9208
+  Y: 9.314227
+  Z: -59.6621
+- NpcName: Merchant & Mender
+  ZoneId: 153
+  NpcId: 1000597
+  X: -165.5573
+  Y: 9.869228
+  Z: -76.663
+- NpcName: Merchant & Mender
+  ZoneId: 153
+  NpcId: 1002372
+  X: -213.1424
+  Y: 20.90274
+  Z: 365.1974
+- NpcName: Merchant & Mender
+  ZoneId: 154
+  NpcId: 1002376
+  X: 8.000854
+  Y: -44.73338
+  Z: 220.9162
+- NpcName: Merchant & Mender
+  ZoneId: 154
+  NpcId: 1000718
+  X: 333.8266
+  Y: -5.550671
+  Z: 330.3866
+- NpcName: Merchant & Mender
+  ZoneId: 154
+  NpcId: 1000230
+  X: 420.3606
+  Y: -3.795246
+  Z: -122.7712
+- NpcName: Merchant & Mender
+  ZoneId: 140
+  NpcId: 1003737
+  X: 42.44503
+  Y: 45.13517
+  Z: -263.4549
+- NpcName: Merchant & Mender
+  ZoneId: 140
+  NpcId: 1004422
+  X: -307.3693
+  Y: 18.61392
+  Z: -149.7009
+- NpcName: Merchant & Mender
+  ZoneId: 140
+  NpcId: 1004038
+  X: -463.3703
+  Y: 23.02016
+  Z: -380.4055
+- NpcName: Merchant & Mender
+  ZoneId: 140
+  NpcId: 1003724
+  X: 209.9121
+  Y: 52.03812
+  Z: 136.2902
+- NpcName: Merchant & Mender
+  ZoneId: 140
+  NpcId: 1004421
+  X: -314.4664
+  Y: 33.25
+  Z: 391.6377
+- NpcName: Merchant & Mender
+  ZoneId: 141
+  NpcId: 1001563
+  X: -11.68758
+  Y: -2.04808
+  Z: -150.3593
+- NpcName: Merchant & Mender
+  ZoneId: 145
+  NpcId: 1004426
+  X: -405.367
+  Y: -54.1446
+  Z: 97.62759
+- NpcName: Merchant & Mender
+  ZoneId: 145
+  NpcId: 1004428
+  X: -535.3561
+  Y: 4.220985
+  Z: -235.4796
+- NpcName: Junkmonger
+  ZoneId: 146
+  NpcId: 1004429
+  X: -158.5613
+  Y: 27.02415
+  Z: -432.8073
+- NpcName: Merchant & Mender
+  ZoneId: 146
+  NpcId: 1004430
+  X: -278.4936
+  Y: 8.193831
+  Z: 382.6174
+- NpcName: Merchant & Mender
+  ZoneId: 147
+  NpcId: 1004160
+  X: -26.06529
+  Y: 6.984498
+  Z: 475.0516
+- NpcName: Merchant & Mender
+  ZoneId: 147
+  NpcId: 1004598
+  X: -2.01193
+  Y: 42.9939
+  Z: 29.56977
+- NpcName: Merchant & Mender
+  ZoneId: 155
+  NpcId: 1006798
+  X: 242.7267
+  Y: 302
+  Z: -256.5718
+- NpcName: Merchant & Mender
+  ZoneId: 155
+  NpcId: 1006800
+  X: -413.2639
+  Y: 210.8949
+  Z: -274.1775
+- NpcName: Merchant & Mender
+  ZoneId: 155
+  NpcId: 1006799
+  X: 235.629
+  Y: 222.2132
+  Z: 321.7823
+- NpcName: Merchant & Mender
+  ZoneId: 156
+  NpcId: 1006899
+  X: 48.79353
+  Y: 31.10102
+  Z: -734.5781
+- NpcName: Merchant & Mender
+  ZoneId: 156
+  NpcId: 1006898
+  X: 430.4857
+  Y: -5.360878
+  Z: -455.7458
